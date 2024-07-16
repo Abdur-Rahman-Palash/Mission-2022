@@ -1,0 +1,253 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+body{
+    font-family: "Poppins", sans-serif;
+}
+/* header */
+.header-text h2{
+    font-size: 2.5rem;
+    font-weight: 400;
+    line-height: 45px;
+    text-align: left;
+    font-family: "Yeseva One", serif;
+    margin: 70px auto;
+
+}
+ #mission{
+    border-left: 3px solid #FF900E;
+    padding: 39px;
+    color:#FF900E ;
+}
+#missions{
+    color:#FF900E ; 
+}
+.header-text p{
+    color: rgb(62, 62, 62);
+font-size: 18px;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0px;
+text-align: left;
+margin-top: 25px;
+}
+.image{
+   width: 100%;
+}
+.btn{
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0px;
+    text-align: center;
+background: rgb(255, 89, 89);
+border: none;
+}
+.header-text{
+    width: 700px;
+    height: 415px;
+    margin: 35px auto;
+   
+    
+}
+.header{
+    width: 1420px;
+height: 454px;
+margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    
+}
+.image{
+    width: 700px;
+    height: 415px;
+    margin: 0 auto;
+}
+
+/* header */
+/*  */
+.My-Mission-in-2022 h3{
+font-size: 48px;
+font-weight: 700;
+line-height: 70px;
+letter-spacing: 0%;
+text-align: center;
+}
+.card1 img{
+    width: 126px;
+    height: 126px; 
+}
+ .card2 img{
+    width: 126px;
+    height: 126px;
+}
+.card3 img{
+    width: 126px;
+    height: 126px;
+}
+.card1 h5{
+    color: rgb(0, 0, 0);
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.card1 p{
+    color: rgb(66, 66, 66);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.card1{
+    border-radius: 16px;
+    width: 360px;
+background: rgba(79, 157, 166, 0.1);
+padding: 10px;
+height: 376px;
+}
+.card2{
+    border-radius: 16px;
+
+background: rgba(255, 89, 89, 0.1);
+    width: 360px;
+    height: 376px;
+padding: 10px;
+}
+.card3{
+    border-radius: 16px;
+background: rgb(255, 244, 214);
+    width: 360px;
+    height: 376px;
+padding: 10px;
+}
+.My-Mission-in-2022-content{
+    display: flex;
+    gap: 15px;
+    justify-content: center;
+    align-items: center;
+}
+/*  */
+.Develop-Without-Limits h5{
+    color: rgb(51, 51, 51);
+font-size: 25px;
+font-weight: 700;
+line-height: 34px;
+letter-spacing: 0%;
+text-align: left;
+margin-top: 105px;
+}
+.Develop-Without-Limits p{
+    color: rgb(62, 62, 62);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.btn-primary{
+    width: 243px;
+height: 48px;
+border-radius: 5px;
+color: rgb(255, 255, 255);
+font-family: Roboto;
+font-size: 16px;
+font-weight: 500;
+line-height: 20px;
+letter-spacing: 0%;
+text-align: center;
+background: rgb(255, 89, 89);
+border: none;
+}
+.images img{
+    width: 400px;
+height: 400px
+}
+.images{
+    margin-top: 55px;   
+}
+.Develop-Without-Limits{
+    display: flex;
+    gap: 100px;
+    margin: 20px 70px;
+}
+/*  */
+.Know-our-Global-Community{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.Know-our-Global-Community h5{
+    color: rgb(51, 51, 51);
+    font-size: 25px;
+    font-weight: 700;
+    line-height: 34px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+.Know-our-Global-Community p{
+    color: rgb(62, 62, 62);
+    font-family: Poppins;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0%;
+    text-align: left;
+}
+/*  */
+.Build-Corona-Application h3{
+    font-family: Poppins;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 74px;
+    letter-spacing: 0%;
+    text-align: center;
+}
+.Build-Corona-Application-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 100px;
+}
+.imagess img{
+    width: 229px;
+height: 459px;
+border-radius: 16px;
+
+box-shadow: 2px 4px 32px 0px rgba(0, 0, 0, 0.12);
+/* background: url(Daily UI); */
+}
+
+/*  */
+.footer h4{
+    font-family: Lobster;
+font-size: 36px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0.5px;
+text-align: center;
+color: white;
+}
+.footer p{
+    color: rgb(217, 219, 225);
+font-family: Manrope;
+font-size: 14px;
+font-weight: 400;
+line-height: 24px;
+letter-spacing: 0%;
+text-align: center;
+color: white;
+}
+.footer{
+background: black;
+margin: 0 auto;
+}
